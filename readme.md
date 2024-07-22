@@ -34,7 +34,7 @@
 
 ## Veritabanı Başlatma
 
-Uygulama başladığında veritabanını otomatik olarak başlatır ve gerekli tabloları oluşturur. `SQLite3` veritabanı dosyasının (`user.db`) erişilebilir olduğundan emin olun.
+Uygulama başladığında veritabanını otomatik olarak başlatır ve gerekli tabloları oluşturur.
 
 ## API Uç Noktaları
 
