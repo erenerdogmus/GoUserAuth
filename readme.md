@@ -34,7 +34,7 @@
 
 ## Veritabanı Başlatma
 
-Uygulama başladığında veritabanını otomatik olarak başlatır ve gerekli tabloları oluşturur.
+Uygulama başladığında veritabanını `otomatik` olarak başlatır ve gerekli tabloları oluşturur.
 
 ## API Uç Noktaları
 
